@@ -1,6 +1,6 @@
 ---
 layout: home
-title:  "IOB Retirees Club"
+title:  "IOB Retirees Club Kanpur"
 comments: true
 
 ---
