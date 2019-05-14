@@ -8,7 +8,7 @@ comments: true
 Under construction
 
 
-contact: 7417 994 557
+Call: 7417 994 557
 
 
 ## Join our Facebook Group
