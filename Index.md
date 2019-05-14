@@ -1,6 +1,8 @@
 ---
+title: Home
 layout: home
-title:  "IOB Retirees Club Kanpur"
+topmenu: true
+order: 0
 comments: true
 ---
 Under construction

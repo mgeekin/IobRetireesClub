@@ -3,6 +3,7 @@ layout: default
 title:  "Meeting Venue and Schedule"
 comments: true
 topmenu: true
+order: 2
 ---
 To be updated soon.
 

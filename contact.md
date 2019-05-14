@@ -2,6 +2,7 @@
 layout: default
 title:  "Contact"
 comments: true
+order: 10
 ---
 ## Join our Facebook Group  
 [Group on FB](https://www.facebook.com/groups/337771100272246/)
